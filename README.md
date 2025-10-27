@@ -20,7 +20,7 @@ I focus on building reliable, scalable, and user-centered web applications that 
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php" />
   <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask" />
   <br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" />
@@ -28,37 +28,6 @@ I focus on building reliable, scalable, and user-centered web applications that 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
-
----
-
-### 🧠 **Languages & Frameworks I Use**
-
-**Programming Languages**
-- JavaScript  
-- TypeScript  
-- Python  
-- PHP  
-- SQL  
-- HTML  
-- CSS  
-
-**Frameworks & Runtimes**
-- Node.js  
-- Next.js  
-- Express.js  
-- Django  
-- Flask  
-
-**Additional Tools & Technologies**
-- PostgreSQL  
-- MySQL  
-- Prisma ORM  
-- Git & GitHub  
-- Figma  
-- VS Code  
-- Postman  
-- Cloudinary  
-- Agile (Scrum)  
 
 ---
 
