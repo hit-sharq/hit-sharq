@@ -1,5 +1,9 @@
 # 👋 *Hi, I'm Joshua Mwendwa*  
 
+<table>
+<tr>
+<td width="60%">
+
 I'm a *Full-Stack Software Engineer* passionate about *designing and developing high-impact digital products.*  
 I focus on *building reliable, scalable, and user-centered web applications* that solve *real-world challenges.*  
 
@@ -10,6 +14,13 @@ I focus on *building reliable, scalable, and user-centered web applications* tha
 - *Strong foundation in system design, product architecture, and user experience*  
 - *Proven ability to transform ideas into elegant, maintainable, and high-performing solutions*  
 - *Commitment to continuous learning and innovation*  
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,9 +69,3 @@ Explore my featured projects and case studies below:
 
 ⭐ *Driven by innovation. Grounded in craftsmanship.*  
 🎬 *Coding is my art — one line at a time.*
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding animation" />
-</p>
