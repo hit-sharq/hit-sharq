@@ -1,30 +1,27 @@
-# 👋 *Hi, I'm Joshua Mwendwa*  
+# 👋 Hi, I'm *Joshua Mwendwa*  
 
-<table>
-<tr>
-<td width="60%">
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer Coding Animation">
+</p>
 
-I'm a *Full-Stack Software Engineer* passionate about *designing and developing high-impact digital products.*  
-I focus on *building reliable, scalable, and user-centered web applications* that solve *real-world challenges.*  
+I'm a *Full-Stack Software Engineer* passionate about designing and developing high-impact digital products.  
+I focus on building reliable, scalable, and user-centered web applications that solve real-world challenges.  
 
 ---
 
 ### 💡 *What I Bring*
-- *Experience developing and deploying full-stack applications for startups and businesses*  
-- *Strong foundation in system design, product architecture, and user experience*  
-- *Proven ability to transform ideas into elegant, maintainable, and high-performing solutions*  
-- *Commitment to continuous learning and innovation*  
-
-</td>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
-</td>
-</tr>
-</table>
+- Experience developing and deploying full-stack applications for startups and businesses  
+- Strong foundation in system design, product architecture, and user experience  
+- Proven ability to transform ideas into elegant, maintainable, and high-performing solutions  
+- Commitment to continuous learning and innovation  
 
 ---
 
 ### ⚙️ *Tech Stack*
+
+<p align="left">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="220" align="right" alt="Golf Swing Animation"/>
+</p>
 
 <p align="left">
   <!-- Languages -->
@@ -43,19 +40,33 @@ I focus on *building reliable, scalable, and user-centered web applications* tha
 ---
 
 ### 🏆 *Achievements*
-- *Contributed to multiple production-ready full-stack applications*  
-- *Developed portfolio projects showcasing UI/UX excellence and functional scalability*  
-- *Collaborated with teams to design impactful, real-world digital solutions*  
+
+<p align="right">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180" alt="Rocket Launch Animation">
+</p>
+
+- Contributed to multiple production-ready full-stack applications  
+- Developed portfolio projects showcasing UI/UX excellence and functional scalability  
+- Collaborated with teams to design impactful, real-world digital solutions  
 
 ---
 
 ### 🌍 *Portfolio*
+
+<p align="right">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="160" alt="Globe Animation">
+</p>
+
 Explore my featured projects and case studies below:  
-🔗 [*joshua-mwendwa.vercel.app*](https://joshua-mwendwa.vercel.app/)
+🔗 [joshua-mwendwa.vercel.app](https://joshua-mwendwa.vercel.app/)
 
 ---
 
 ### 🤝 *Connect With Me*
+
+<p align="left">
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="130" align="right" alt="Handshake Animation" />
+</p>
 
 <p align="left">
   <a href="mailto:officialjoshuamwendwa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -67,5 +78,7 @@ Explore my featured projects and case studies below:
 
 ---
 
-⭐ *Driven by innovation. Grounded in craftsmanship.*  
-🎬 *Coding is my art — one line at a time.*
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
+  *Driven by innovation. Grounded in craftsmanship.*
+</p>
