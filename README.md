@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Joshua Mwendwa  
+# 👋 *Hi, I'm Joshua Mwendwa*  
 
-I'm a **Full-Stack Software Engineer** passionate about designing and developing high-impact digital products.  
-I focus on building reliable, scalable, and user-centered web applications that solve real-world challenges.  
-
----
-
-### 💡 **What I Bring**
-- Experience developing and deploying full-stack applications for startups and businesses  
-- Strong foundation in system design, product architecture, and user experience  
-- Proven ability to transform ideas into elegant, maintainable, and high-performing solutions  
-- Commitment to continuous learning and innovation  
+I'm a *Full-Stack Software Engineer* passionate about *designing and developing high-impact digital products.*  
+I focus on *building reliable, scalable, and user-centered web applications* that solve *real-world challenges.*  
 
 ---
 
-### ⚙️ **Tech Stack**
+### 💡 *What I Bring*
+- *Experience developing and deploying full-stack applications for startups and businesses*  
+- *Strong foundation in system design, product architecture, and user experience*  
+- *Proven ability to transform ideas into elegant, maintainable, and high-performing solutions*  
+- *Commitment to continuous learning and innovation*  
+
+---
+
+### ⚙️ *Tech Stack*
 
 <p align="left">
   <!-- Languages -->
@@ -31,20 +31,20 @@ I focus on building reliable, scalable, and user-centered web applications that 
 
 ---
 
-### 🏆 **Achievements**
-- Contributed to multiple production-ready full-stack applications  
-- Developed portfolio projects showcasing UI/UX excellence and functional scalability  
-- Collaborated with teams to design impactful, real-world digital solutions  
+### 🏆 *Achievements*
+- *Contributed to multiple production-ready full-stack applications*  
+- *Developed portfolio projects showcasing UI/UX excellence and functional scalability*  
+- *Collaborated with teams to design impactful, real-world digital solutions*  
 
 ---
 
-### 🌍 **Portfolio**
+### 🌍 *Portfolio*
 Explore my featured projects and case studies below:  
-🔗 [joshua-mwendwa.vercel.app](https://joshua-mwendwa.vercel.app/)
+🔗 [*joshua-mwendwa.vercel.app*](https://joshua-mwendwa.vercel.app/)
 
 ---
 
-### 🤝 **Connect With Me**
+### 🤝 *Connect With Me*
 
 <p align="left">
   <a href="mailto:officialjoshuamwendwa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -56,4 +56,11 @@ Explore my featured projects and case studies below:
 
 ---
 
-⭐ *Driven by innovation. Grounded in craftsmanship.*
+⭐ *Driven by innovation. Grounded in craftsmanship.*  
+🎬 *Coding is my art — one line at a time.*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding animation" />
+</p>
