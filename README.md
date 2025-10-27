@@ -1,36 +1,48 @@
 # 👋 Hi, I'm Joshua Mwendwa  
 
-I'm a **Full-Stack Software Engineer** passionate about building modern, scalable, and impactful digital products.  
-I enjoy turning complex ideas into real-world solutions through clean architecture, seamless UX, and solid backend logic.
+I'm a **Full-Stack Software Engineer** passionate about designing and developing high-impact digital products.  
+I focus on crafting reliable, scalable, and user-centered web applications that deliver real value.  
 
 ---
 
-### 💼 **What I Do**
-- 🧱 Build full-stack web applications (from concept to deployment)
-- ⚡ Design intuitive dashboards and admin systems
-- ☁️ Integrate cloud services for uploads, authentication, and data
-- 🚀 Contribute to projects that solve real problems and scale efficiently
+### 💡 **What I Bring**
+- Experience building and deploying end-to-end applications for startups and businesses  
+- Strong foundation in full-stack development and system architecture  
+- Proven ability to turn ideas into elegant, maintainable solutions  
+- Passion for continuous learning and development excellence  
 
 ---
 
-### 🧩 **Highlighted Projects**
-- **Arts Afrik** – Global platform for African art sourcing and curation  
-- **ECOPURE** – Eco-friendly cleaning company management system  
-- **Veloxi** – Nationwide multi-service delivery platform  
-- **Memory Vault** – Personal digital archive for memories and moments  
-- **FoodBridge** – Food rescue and redistribution platform  
+### ⚙️ **Tech Stack**
 
-> Explore them in my pinned repositories below 👇  
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php" />
+  <br/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+### 🌍 **My Work**
+I’ve contributed to production-ready projects across logistics, sustainability, and digital experiences.  
+Explore more of my work on my portfolio below:
+
+🔗 **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
-### 🧠 **Interests**
-Product design, automation, clean UI/UX, and AI integration in real-world applications.
+### 🤝 **Let’s Connect**
+📧 [officialjoshuamwendwa@gmail.com](mailto:officialjoshuamwendwa@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/joshua-mwendwa)
 
 ---
 
-### 🌐 **Let's Connect**
-[LinkedIn](https://https://www.linkedin.com/in/joshua-mwendwa-b183b5287/) • [Portfolio](https://joshua-mwendwa.vercel.app/) • [Email](mailto:officialjoshuamwendwa@gmail.com)
-
----
-⭐️ *“Don’t just code to build — code to solve.”*
+⭐ *Driven by innovation. Grounded in craftsmanship.*
