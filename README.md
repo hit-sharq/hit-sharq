@@ -35,13 +35,14 @@ I focus on crafting reliable, scalable, and user-centered web applications that 
 I’ve contributed to production-ready projects across logistics, sustainability, and digital experiences.  
 Explore more of my work on my portfolio below:
 
-🔗 **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
+🔗 **Portfolio:** [https://your-portfolio-link.com](https://joshua-mwendwa.vercel.app/)
 
 ---
 
 ### 🤝 **Let’s Connect**
 📧 [officialjoshuamwendwa@gmail.com](mailto:officialjoshuamwendwa@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/joshua-mwendwa)
+💼 [LinkedIn](https://www.linkedin.com/in/joshua-mwendwa-b183b5287/)
+
 
 ---
 
