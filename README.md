@@ -13,17 +13,27 @@ I focus on building reliable, scalable, and user-centered web applications that 
 
 ---
 
-### ⚙️ **Languages, Frameworks & Tools I Use**
+### ⚙️ **Tech Stack**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,nodejs,nextjs,express,django,flask,postgresql,mysql,prisma,git,github,vscode,figma,postman,cloudflare" />
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php" />
+  <br/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
 ### 🏆 **Achievements**
 - Contributed to multiple production-ready full-stack applications  
-- Developed portfolio projects showcasing UI/UX excellence and scalability  
+- Developed portfolio projects showcasing UI/UX excellence and functional scalability  
 - Collaborated with teams to design impactful, real-world digital solutions  
 
 ---
@@ -36,7 +46,7 @@ Explore my featured projects and case studies below:
 
 ### 🤝 **Connect With Me**
 
-<p align="center">
+<p align="left">
   <a href="mailto:officialjoshuamwendwa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/joshua-mwendwa-b183b5287/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/hit-sharq"><img src="https://skillicons.dev/icons?i=github" /></a>
