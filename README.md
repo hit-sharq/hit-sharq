@@ -91,7 +91,7 @@ I focus on building reliable, scalable, and user-centered web applications that 
 <td>
 
 Explore my featured projects and case studies below:  
-🔗 [joshua-mwendwa.vercel.app](https://joshua-mwendwa.vercel.app/)
+🔗 [Mutuku Joshua](https://mutuku-joshua.vercel.app//)
 
 </td>
 <td>
